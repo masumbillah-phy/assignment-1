@@ -9,13 +9,25 @@
     width: 100%;
     height: 400vh;
     background-repeat: no-repeat;
-    opacity:;
+    opacity:0.9;
 }
 .content{
     color: white;
     text-align: center;
 }
 .content h1{
-    padding-top: 50px;
-    font-size: 50px;
+    padding-top:70px;
+    font-size: 60px;
+    letter-spacing: 2px;
+}
+.donate-button{
+    color: white;
+    background-color: orangered;
+    text-decoration: none;
+    padding: 15px 20px;
+    border-radius: 5px;
+    text-transform: uppercase; 
+}
+.content p{
+    font-size: 20px;
 }
