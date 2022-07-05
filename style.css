@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Header Section */
+.header{
+    background-image: url(/images/donation4.jpg);
+    width: 100%;
+    height: 400vh;
+    background-repeat: no-repeat;
+    opacity:;
+}
+.content{
+    color: white;
+    text-align: center;
+}
+.content h1{
+    padding-top: 50px;
+    font-size: 50px;
+}
